@@ -1,0 +1,20 @@
+body {
+    background-color: #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    width: 600px;
+    margin: 30px auto;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: green;
+}
